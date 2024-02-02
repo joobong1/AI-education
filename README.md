@@ -1,10 +1,11 @@
 # <혼자 공부하는 머신러닝+딥러닝>의 주피터 노트북
 
 이 저장소는 한빛미디어에서 출간한 책인 [혼자 공부하는 머신러닝+딥러닝](https://tensorflow.blog/hg-mldl/)에 포함된 코드를 주피터 노트북으로 제공합니다.
+여긴 이 책을 기반으로 한 머신러닝+딥러닝 교육 자료 입니다 [https://drive.google.com/drive/folders/1s9gLaXbvnR00z4YlSNnQcpyGVZJ4V_ec?usp=drive_link]
 
 ![cover.png](cover.png)
 
-이 책을 위해 동영상 강의를 제공합니다. [텐서 ≈ 스터디 페이스북 그룹]()에 함께 참여하시거나 [한빛미디어 유튜브 채널](https://www.youtube.com/user/HanbitMedia93), 제 [개인 유튜브 채널](https://www.youtube.com/c/HaesunPark_ML/)에서 볼 수 있습니다.
+이 책을 위해 동영상 강의를 제공합니다. [텐서 ≈ 스터디 페이스북 그룹]()에 함께 참여하시거나 [한빛미디어 유튜브 채널](https://www.youtube.com/user/HanbitMedia93), [개인 유튜브 채널](https://www.youtube.com/c/HaesunPark_ML/)에서 볼 수 있습니다.
 
 주피터 노트북 뷰어나 코랩에서 노트북을 열려면 다음 링크를 사용
 
