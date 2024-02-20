@@ -1,6 +1,6 @@
 # <혼자 공부하는 머신러닝+딥러닝>의 주피터 노트북
 
-이 저장소는 한빛미디어에서 출간한 책인 [혼자 공부하는 머신러닝+딥러닝](https://tensorflow.blog/hg-mldl/)에 포함된 코드를 주피터 노트북으로 제공합니다.
+이 Repo는 [혼자 공부하는 머신러닝+딥러닝](https://tensorflow.blog/hg-mldl/)에 포함된 코드를 주피터 노트북으로 제공합니다.
 이 구글 드라이브 링크는 책을 기반으로 직접 제작한 머신러닝+딥러닝 교육 자료 입니다 [https://drive.google.com/drive/folders/1s9gLaXbvnR00z4YlSNnQcpyGVZJ4V_ec?usp=drive_link]
 
 ![cover.png](cover.png)
